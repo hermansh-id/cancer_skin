@@ -1,6 +1,13 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
+
+# System append path abs + "../"
+import os
+import sys
+
+sys.path.append(os.path.abspath("../"))
+
 from counter_box.classifier import SkinCancerClassifier
 from counter_box.preprocess import Preprocess
 # Load the model
