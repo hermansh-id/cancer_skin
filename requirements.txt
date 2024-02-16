@@ -3,5 +3,5 @@ scikit-learn
 tqdm
 pillow
 matplotlib
-opencv-python
+opencv-python-headless
 streamlit
