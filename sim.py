@@ -3,17 +3,13 @@ from PIL import Image
 import numpy as np
 
 # System append path abs + "../"
-import os
-import sys
-
-sys.path.append(os.path.abspath("../"))
 
 from counter_box.classifier import SkinCancerClassifier
 from counter_box.preprocess import Preprocess
 # Load the model
 classifier = SkinCancerClassifier()
 ps = Preprocess()
-classifier.load_model('skin_cancer_model.pkl')
+classifier.load_model('script/skin_cancer_model.pkl')
 
 # Define function to classify an image
 def classify_image(image):
