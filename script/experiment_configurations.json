@@ -1,0 +1,1514 @@
+[
+    {
+        "id": 1,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 2,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 3,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 4,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 5,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 6,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 7,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 8,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 9,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 10,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 11,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 12,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 13,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 14,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 15,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 16,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 17,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 18,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 19,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 20,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 21,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 22,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 23,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 24,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 25,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 26,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 27,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 28,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 29,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 30,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 31,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 32,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 33,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 34,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 35,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 36,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 37,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 38,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 39,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 40,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 41,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 42,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 43,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 44,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 45,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 46,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 47,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 48,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 49,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 50,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 51,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 52,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 53,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 54,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 55,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 56,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 57,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 58,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 59,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 60,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 61,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 62,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 63,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 64,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 65,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 66,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 67,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 68,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 69,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 70,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 71,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 72,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 73,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 74,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 75,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 76,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 77,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 78,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 79,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 80,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 81,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 82,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 83,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 84,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 85,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 86,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 87,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 88,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 89,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 90,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 91,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 92,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 93,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 94,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 95,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 96,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 97,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 98,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 99,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 100,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 101,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 102,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 103,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 104,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 105,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 106,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 107,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 108,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 109,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 110,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 111,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 112,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 113,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 114,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 115,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 116,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 117,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 118,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 119,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 120,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 121,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 122,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 123,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 124,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 125,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 126,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 127,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 128,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 129,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 130,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 131,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 132,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 133,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 134,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 135,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 136,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 137,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 138,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 139,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 140,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 141,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 142,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 143,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 144,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 145,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 146,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 147,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 148,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 149,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 150,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 151,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 152,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 153,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 154,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny"
+    },
+    {
+        "id": 155,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 156,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "sobel"
+    },
+    {
+        "id": 157,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 158,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 159,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 160,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 161,
+        "canny_aperture": 5,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 162,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 163,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 164,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 165,
+        "canny_aperture": 3,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 166,
+        "canny_aperture": 7,
+        "canny_high": 100,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 167,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 168,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 169,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 170,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 171,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 172,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 173,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 174,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 175,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 176,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "canny"
+    },
+    {
+        "id": 177,
+        "canny_aperture": 5,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 178,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 179,
+        "canny_aperture": 7,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 5,
+        "mode": "sobel"
+    },
+    {
+        "id": 180,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 50,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 181,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 182,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 50,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 183,
+        "canny_aperture": 3,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 184,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 185,
+        "canny_aperture": 5,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 186,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "canny"
+    },
+    {
+        "id": 187,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 3,
+        "mode": "canny_sobel"
+    },
+    {
+        "id": 188,
+        "canny_aperture": 7,
+        "canny_high": 200,
+        "canny_low": 100,
+        "ksize": 1,
+        "mode": "sobel"
+    },
+    {
+        "id": 189,
+        "canny_aperture": 3,
+        "canny_high": 250,
+        "canny_low": 150,
+        "ksize": 5,
+        "mode": "canny"
+    }
+]

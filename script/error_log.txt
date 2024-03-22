@@ -1,0 +1,126 @@
+canny_aperture: 7
+canny_high: 200
+canny_low: 150
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 7
+canny_high: 250
+canny_low: 100
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 250
+canny_low: 100
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 100
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 100
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 200
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 7
+canny_high: 100
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 250
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 7
+canny_high: 200
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 200
+canny_low: 150
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 250
+canny_low: 150
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 200
+canny_low: 150
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 7
+canny_high: 250
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 250
+canny_low: 150
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 200
+canny_low: 100
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 200
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 7
+canny_high: 250
+canny_low: 150
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 5
+canny_high: 250
+canny_low: 100
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 200
+canny_low: 100
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 3
+canny_high: 250
+canny_low: 50
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)
+canny_aperture: 7
+canny_high: 200
+canny_low: 100
+ksize: 1
+mode: sobel
+Error: cannot reshape array of size 0 into shape (0,newaxis)

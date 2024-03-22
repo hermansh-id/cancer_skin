@@ -1,0 +1,252 @@
+{
+    "1": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 92.47704982757568,
+        "Max Memory Usage (MB)": 4.421875
+    },
+    "2": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 90.31972861289978,
+        "Max Memory Usage (MB)": 1.63671875
+    },
+    "3": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 90.31459307670593,
+        "Max Memory Usage (MB)": 0.69140625
+    },
+    "4": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 86.88697457313538,
+        "Max Memory Usage (MB)": 0.01953125
+    },
+    "5": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 86.94902920722961,
+        "Max Memory Usage (MB)": 0.33203125
+    },
+    "6": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.56245827674866,
+        "Max Memory Usage (MB)": 5.36328125
+    },
+    "7": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 89.20238447189331,
+        "Max Memory Usage (MB)": 4.25
+    },
+    "8": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.52642703056335,
+        "Max Memory Usage (MB)": 1.984375
+    },
+    "10": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 89.40623903274536,
+        "Max Memory Usage (MB)": 0.01953125
+    },
+    "11": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.44222497940063,
+        "Max Memory Usage (MB)": 0.02734375
+    }
+}

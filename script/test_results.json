@@ -1,0 +1,4202 @@
+{
+    "1": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.06107521057129,
+        "Max Memory Usage (MB)": 4.328125
+    },
+    "2": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.12964749336243,
+        "Max Memory Usage (MB)": 1.8828125
+    },
+    "3": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.44493126869202,
+        "Max Memory Usage (MB)": 0.46484375
+    },
+    "4": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.71192407608032,
+        "Max Memory Usage (MB)": -0.921875
+    },
+    "5": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.18342089653015,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "6": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.6402645111084,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "7": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.01768636703491,
+        "Max Memory Usage (MB)": 0.17578125
+    },
+    "8": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6428571428571429,
+        "Recall": 0.9,
+        "F1-Score": 0.75,
+        "Confusion Matrix": [
+            [
+                5,
+                5
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.75782704353333,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "10": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.7,
+        "Recall": 0.7,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 88.63242483139038,
+        "Max Memory Usage (MB)": 0.015625
+    },
+    "11": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.85199189186096,
+        "Max Memory Usage (MB)": 0.0234375
+    },
+    "12": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 86.99790215492249,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "13": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 86.76312828063965,
+        "Max Memory Usage (MB)": -0.1171875
+    },
+    "14": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6153846153846154,
+        "Recall": 0.8,
+        "F1-Score": 0.6956521739130435,
+        "Confusion Matrix": [
+            [
+                5,
+                5
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.74880576133728,
+        "Max Memory Usage (MB)": 0.0546875
+    },
+    "15": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.83771872520447,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "16": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.17961621284485,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "18": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.96902680397034,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "19": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.69093418121338,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "20": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.08438420295715,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "21": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 86.31379461288452,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "22": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.17519855499268,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "23": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.84851098060608,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "24": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.75842452049255,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "25": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.87555503845215,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "26": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.88464546203613,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "27": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.9151132106781,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "28": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.39502048492432,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "29": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 86.88822817802429,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "30": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.2288031578064,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "31": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.81794548034668,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "32": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 89.27794027328491,
+        "Max Memory Usage (MB)": -2.03515625
+    },
+    "33": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.3257040977478,
+        "Max Memory Usage (MB)": 2.0234375
+    },
+    "34": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 87.64831256866455,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "35": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 85.4985454082489,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "36": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.21719765663147,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "37": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 91.21835136413574,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "38": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 98.05201435089111,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "39": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 91.69190311431885,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "40": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 89.24796509742737,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "42": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 90.17360925674438,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "43": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 91.10583448410034,
+        "Max Memory Usage (MB)": -59.8984375
+    },
+    "44": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 90.05173754692078,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "45": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 88.15546894073486,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "46": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.8132393360138,
+        "Max Memory Usage (MB)": -262.62890625
+    },
+    "47": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.92194652557373,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "48": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.6,
+        "F1-Score": 0.631578947368421,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                4,
+                6
+            ]
+        ],
+        "Training Time (s)": 88.17503762245178,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "49": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.22548151016235,
+        "Max Memory Usage (MB)": -72.27734375
+    },
+    "51": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.04012179374695,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "52": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7368421052631579,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8888888888888888,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.36933732032776,
+        "Max Memory Usage (MB)": 0.0234375
+    },
+    "54": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 90.56581974029541,
+        "Max Memory Usage (MB)": 0.0859375
+    },
+    "55": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 91.4023904800415,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "57": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 89.68711352348328,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "58": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 89.92093849182129,
+        "Max Memory Usage (MB)": -33.9453125
+    },
+    "59": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 87.23982739448547,
+        "Max Memory Usage (MB)": 0.02734375
+    },
+    "60": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.23404312133789,
+        "Max Memory Usage (MB)": 0.0390625
+    },
+    "61": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.58009767532349,
+        "Max Memory Usage (MB)": -10.0546875
+    },
+    "62": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.7,
+        "Recall": 0.7,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 88.68391537666321,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "64": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.16876792907715,
+        "Max Memory Usage (MB)": -11.33203125
+    },
+    "65": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 86.95318937301636,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "66": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.68513607978821,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "67": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.6,
+        "Precision": 0.6,
+        "Recall": 0.6,
+        "F1-Score": 0.6,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                4,
+                6
+            ]
+        ],
+        "Training Time (s)": 88.07969927787781,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "68": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.24826884269714,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "69": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.33197140693665,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "70": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.96425700187683,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "72": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 87.32247591018677,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "73": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.12499809265137,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "74": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.7,
+        "Recall": 0.7,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 87.59649395942688,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "75": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.39579272270203,
+        "Max Memory Usage (MB)": 0.015625
+    },
+    "76": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.62475037574768,
+        "Max Memory Usage (MB)": 0.015625
+    },
+    "77": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 138.03790736198425,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "78": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 92.44926953315735,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "79": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 89.05641460418701,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "80": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 90.12526774406433,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "81": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.98117303848267,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "82": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.7,
+        "Recall": 0.7,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 88.96015477180481,
+        "Max Memory Usage (MB)": -3.9296875
+    },
+    "83": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.631578947368421,
+        "Precision": 0.5833333333333334,
+        "Recall": 0.7777777777777778,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                5,
+                5
+            ],
+            [
+                2,
+                7
+            ]
+        ],
+        "Training Time (s)": 87.43650007247925,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "84": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7368421052631579,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8888888888888888,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.03324866294861,
+        "Max Memory Usage (MB)": -0.88671875
+    },
+    "85": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.58973240852356,
+        "Max Memory Usage (MB)": -1.31640625
+    },
+    "86": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 86.57384157180786,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "87": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.03063225746155,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "88": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.82218980789185,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "89": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.49942517280579,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "90": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.25330805778503,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "91": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.22884273529053,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "93": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.55436706542969,
+        "Max Memory Usage (MB)": -0.3984375
+    },
+    "95": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.03553056716919,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "96": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 86.95834732055664,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "97": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.27365517616272,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "98": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.95400333404541,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "99": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 965.7588596343994,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "100": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 89.16433501243591,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "101": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 90.99866223335266,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "102": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.73947143554688,
+        "Max Memory Usage (MB)": -2.02734375
+    },
+    "103": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 86.38707137107849,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "104": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.08448147773743,
+        "Max Memory Usage (MB)": -0.41015625
+    },
+    "105": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.09998202323914,
+        "Max Memory Usage (MB)": 0.34375
+    },
+    "106": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.5789473684210527,
+        "Precision": 0.5555555555555556,
+        "Recall": 0.5555555555555556,
+        "F1-Score": 0.5555555555555556,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                4,
+                5
+            ]
+        ],
+        "Training Time (s)": 87.36695456504822,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "107": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.31091785430908,
+        "Max Memory Usage (MB)": 0.01953125
+    },
+    "108": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.03483438491821,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "109": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.77840399742126,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "110": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 87.4586341381073,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "111": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 88.1731767654419,
+        "Max Memory Usage (MB)": -0.0078125
+    },
+    "115": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 91.44340109825134,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "116": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 92.11191844940186,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "117": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 90.44806408882141,
+        "Max Memory Usage (MB)": -0.0234375
+    },
+    "118": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 92.63192749023438,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "119": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                0,
+                10
+            ]
+        ],
+        "Training Time (s)": 96.84853768348694,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "120": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.7,
+        "Recall": 0.7,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 92.23711013793945,
+        "Max Memory Usage (MB)": -0.109375
+    },
+    "121": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.6842105263157895,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7777777777777778,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                7
+            ]
+        ],
+        "Training Time (s)": 95.50739169120789,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "122": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 98.89122915267944,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "123": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 92.84397625923157,
+        "Max Memory Usage (MB)": -0.06640625
+    },
+    "124": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 94.59368991851807,
+        "Max Memory Usage (MB)": 0.0234375
+    },
+    "126": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 96.71760249137878,
+        "Max Memory Usage (MB)": -0.23046875
+    },
+    "127": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 92.37998342514038,
+        "Max Memory Usage (MB)": 0.08203125
+    },
+    "128": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6428571428571429,
+        "Recall": 0.9,
+        "F1-Score": 0.75,
+        "Confusion Matrix": [
+            [
+                5,
+                5
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 98.61754560470581,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "129": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 99.44222402572632,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "130": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 96.01689982414246,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "131": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 99.47992396354675,
+        "Max Memory Usage (MB)": -0.03515625
+    },
+    "132": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 97.94109153747559,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "133": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 99.12753582000732,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "134": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 92.6994776725769,
+        "Max Memory Usage (MB)": -0.00390625
+    },
+    "135": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 90.77453947067261,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "136": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 90.29624009132385,
+        "Max Memory Usage (MB)": 0.01171875
+    },
+    "137": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 90.12864446640015,
+        "Max Memory Usage (MB)": -0.0390625
+    },
+    "138": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 98.89919686317444,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "139": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 96.8434329032898,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "140": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 94.47033405303955,
+        "Max Memory Usage (MB)": -0.04296875
+    },
+    "141": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 96.89267635345459,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "142": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 93.69923758506775,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "143": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 101.00878500938416,
+        "Max Memory Usage (MB)": 0.015625
+    },
+    "144": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 93.50596809387207,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "145": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7368421052631579,
+        "Precision": 0.7,
+        "Recall": 0.7777777777777778,
+        "F1-Score": 0.7368421052631579,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                7
+            ]
+        ],
+        "Training Time (s)": 87.77238178253174,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "146": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 88.35449767112732,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "147": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.90734553337097,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "148": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 87.42629623413086,
+        "Max Memory Usage (MB)": -0.07421875
+    },
+    "149": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.9567198753357,
+        "Max Memory Usage (MB)": 0.0703125
+    },
+    "150": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.52906322479248,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "151": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.0204770565033,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "153": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.6363636363636364,
+        "Precision": 0.7,
+        "Recall": 0.875,
+        "F1-Score": 0.7777777777777778,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                1,
+                7
+            ]
+        ],
+        "Training Time (s)": 85.32898092269897,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "154": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 87.1319489479065,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "155": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.27384638786316,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "156": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7272727272727273,
+        "Precision": 0.7272727272727273,
+        "Recall": 1.0,
+        "F1-Score": 0.8421052631578947,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                8
+            ]
+        ],
+        "Training Time (s)": 86.43447041511536,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "157": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.3552725315094,
+        "Max Memory Usage (MB)": -0.01953125
+    },
+    "158": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.25339150428772,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "159": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.23462963104248,
+        "Max Memory Usage (MB)": 0.0078125
+    },
+    "161": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.11470794677734,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "162": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6363636363636364,
+        "Recall": 0.7,
+        "F1-Score": 0.6666666666666666,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 86.10318422317505,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "164": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 84.68083333969116,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "165": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.8,
+        "F1-Score": 0.7272727272727273,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.06901836395264,
+        "Max Memory Usage (MB)": 0.01171875
+    },
+    "166": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 100,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.70301556587219,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "167": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 1615.3958323001862,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "168": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.42575073242188,
+        "Max Memory Usage (MB)": 0.015625
+    },
+    "170": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.85,
+        "Precision": 0.7692307692307693,
+        "Recall": 1.0,
+        "F1-Score": 0.8695652173913043,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                0,
+                10
+            ]
+        ],
+        "Training Time (s)": 87.75355744361877,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "172": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.836181640625,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "173": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.52956652641296,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "174": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7,
+        "Precision": 0.7,
+        "Recall": 0.7,
+        "F1-Score": 0.7,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                3,
+                7
+            ]
+        ],
+        "Training Time (s)": 87.7174654006958,
+        "Max Memory Usage (MB)": -0.0078125
+    },
+    "175": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.60336112976074,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "176": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.65,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.6,
+        "F1-Score": 0.631578947368421,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                4,
+                6
+            ]
+        ],
+        "Training Time (s)": 87.42474031448364,
+        "Max Memory Usage (MB)": -0.0234375
+    },
+    "177": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 86.93918347358704,
+        "Max Memory Usage (MB)": -0.01953125
+    },
+    "178": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.7272727272727273,
+        "Recall": 0.8,
+        "F1-Score": 0.7619047619047619,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                2,
+                8
+            ]
+        ],
+        "Training Time (s)": 87.28656792640686,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "179": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 5,
+            "mode": "sobel"
+        },
+        "Accuracy": 0.85,
+        "Precision": 0.7692307692307693,
+        "Recall": 1.0,
+        "F1-Score": 0.8695652173913043,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                0,
+                10
+            ]
+        ],
+        "Training Time (s)": 87.48601603507996,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "180": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 50,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.91410684585571,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "181": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 50,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 84.31514835357666,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "183": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.625,
+        "Precision": 0.625,
+        "Recall": 1.0,
+        "F1-Score": 0.7692307692307693,
+        "Confusion Matrix": [
+            [
+                0,
+                3
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.67917728424072,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "184": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 84.88431310653687,
+        "Max Memory Usage (MB)": 0.00390625
+    },
+    "185": {
+        "Config": {
+            "canny_aperture": 5,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.75,
+        "Precision": 0.6923076923076923,
+        "Recall": 0.9,
+        "F1-Score": 0.782608695652174,
+        "Confusion Matrix": [
+            [
+                6,
+                4
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.36620879173279,
+        "Max Memory Usage (MB)": 0.0
+    },
+    "186": {
+        "Config": {
+            "canny_aperture": 7,
+            "canny_high": 200,
+            "canny_low": 100,
+            "ksize": 1,
+            "mode": "canny"
+        },
+        "Accuracy": 0.8,
+        "Precision": 0.75,
+        "Recall": 0.9,
+        "F1-Score": 0.8181818181818182,
+        "Confusion Matrix": [
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                9
+            ]
+        ],
+        "Training Time (s)": 87.13183259963989,
+        "Max Memory Usage (MB)": -0.0078125
+    },
+    "187": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 3,
+            "mode": "canny_sobel"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 85.34136915206909,
+        "Max Memory Usage (MB)": 0.0625
+    },
+    "189": {
+        "Config": {
+            "canny_aperture": 3,
+            "canny_high": 250,
+            "canny_low": 150,
+            "ksize": 5,
+            "mode": "canny"
+        },
+        "Accuracy": 0.7142857142857143,
+        "Precision": 0.7142857142857143,
+        "Recall": 1.0,
+        "F1-Score": 0.8333333333333334,
+        "Confusion Matrix": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                5
+            ]
+        ],
+        "Training Time (s)": 84.93762755393982,
+        "Max Memory Usage (MB)": 0.0
+    }
+}
